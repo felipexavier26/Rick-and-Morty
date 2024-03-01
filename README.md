@@ -1,4 +1,3 @@
-![image](https://github.com/felipexavier26/Rick-and-Morty/assets/103685054/c3621e72-fedd-4157-84f1-10399c885cd1)
 <div style="text-align: center;">
   
 
