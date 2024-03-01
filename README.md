@@ -1,4 +1,4 @@
-
+![image](https://github.com/felipexavier26/Rick-and-Morty/assets/103685054/c3621e72-fedd-4157-84f1-10399c885cd1)
 <div style="text-align: center;">
   
 
@@ -27,7 +27,9 @@
 <br>
 
 <div align="center">
-![image](https://github.com/felipexavier26/Rick-and-Morty/assets/103685054/2ea1c85c-32f7-43c4-b1c5-27600717cd55)
+  
+![image](https://github.com/felipexavier26/Rick-and-Morty/assets/103685054/fa8e333a-4b75-4e1c-b2b6-ba37a20816c2)
+
 
 </div>
 
