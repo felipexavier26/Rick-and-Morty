@@ -12,7 +12,14 @@
 <h1>Link do Projeto</h1>
 <a href="https://rick-and-morty-sand-xi.vercel.app/" rel="nofollow"><strong>➥ Projeto</strong></a></p>
 
+<h1>
+  Tecnologias Utilizadas
+</h1>
 
+<li><strong>HTML5 </strong>— Estrutura básica da aplicação.</li>
+<li><strong>CSS3 </strong>— Estilização da página.</li>
+<li><strong>JavaScript (Vanilla)</strong>— Para manipulação de dados e interações.</li>
+<li><strong>API Rick and Morty</strong> — Fonte de dados sobre os personagens.</li>
 
 
 <div style="text-align: center;">
