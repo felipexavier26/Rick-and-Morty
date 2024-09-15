@@ -1,3 +1,20 @@
+<h1>Projeto de Busca de Personagens de Rick and Morty</h1>
+
+<p>
+  Este projeto é uma aplicação simples em <strong>JavaScript</strong> que faz chamadas à <strong>API de Rick and Morty</strong> para buscar e exibir informações sobre os personagens da famosa série animada.
+</p>
+
+<h1>Funcionalidades</h1>
+<li>Listar personagens de Rick and Morty com detalhes como nome, status, espécie e localização.</li>
+<li>Pesquisar personagens por nome.</li>
+<li>Navegar entre diferentes páginas de resultados da API.</li>
+
+<h1>Link do Projeto</h1>
+<a href="https://rick-and-morty-sand-xi.vercel.app/" rel="nofollow"><strong>➥ Live Demo</strong></a></p>
+
+
+
+
 <div style="text-align: center;">
   
 
