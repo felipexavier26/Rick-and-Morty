@@ -10,7 +10,7 @@
 <li>Navegar entre diferentes páginas de resultados da API.</li>
 
 <h1>Link do Projeto</h1>
-<a href="https://rick-and-morty-sand-xi.vercel.app/" rel="nofollow"><strong>➥ Projeto/strong></a></p>
+<a href="https://rick-and-morty-sand-xi.vercel.app/" rel="nofollow"><strong>➥ Projeto</strong></a></p>
 
 
 
